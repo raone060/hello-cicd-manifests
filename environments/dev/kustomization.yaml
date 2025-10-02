@@ -8,4 +8,4 @@ resources:
 
 images:
 - name: ghcr.io/raone060/hello-cicd
-  newTag: 224f35ea05e1689c269b283d210d319fe7e6e2b8
+  newTag: f3e5b41f4d664f9a31585fd887d87989b0c0a5bd
