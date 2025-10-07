@@ -13,4 +13,4 @@ commonLabels:
 
 images:
 - name: ghcr.io/raone060/hello-cicd
-  newTag: e62bf1a29907db981ec0ab5004566d00efa11cd8
+  newTag: 7187bc856d09ab400a71694f5620c297e9b7876f
